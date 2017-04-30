@@ -1,0 +1,8 @@
+/Users/alexandredanelon/Developer/HugoSite-aspnetCore/bin/Debug/netcoreapp1.1/HugoSite-aspnetCore.deps.json
+/Users/alexandredanelon/Developer/HugoSite-aspnetCore/bin/Debug/netcoreapp1.1/HugoSite-aspnetCore.runtimeconfig.json
+/Users/alexandredanelon/Developer/HugoSite-aspnetCore/bin/Debug/netcoreapp1.1/HugoSite-aspnetCore.runtimeconfig.dev.json
+/Users/alexandredanelon/Developer/HugoSite-aspnetCore/bin/Debug/netcoreapp1.1/HugoSite-aspnetCore.dll
+/Users/alexandredanelon/Developer/HugoSite-aspnetCore/bin/Debug/netcoreapp1.1/HugoSite-aspnetCore.pdb
+/Users/alexandredanelon/Developer/HugoSite-aspnetCore/obj/Debug/netcoreapp1.1/HugoSite-aspnetCore.AssemblyInfo.cs
+/Users/alexandredanelon/Developer/HugoSite-aspnetCore/obj/Debug/netcoreapp1.1/HugoSite-aspnetCore.dll
+/Users/alexandredanelon/Developer/HugoSite-aspnetCore/obj/Debug/netcoreapp1.1/HugoSite-aspnetCore.pdb
